@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Simeão 👋
 
-Estudante de **Inteligência Artificial e Automação Digital** e de **Análise de Dados**. Gosto de pegar processos repetitivos de negócios reais e transformar em soluções com IA, integrações de APIs e dados.
+Estudante de **Inteligência Artificial e Automação Digital** e de **Análise de Dados**. Pego processos repetitivos de pequenos negócios e transformo em soluções com IA, integrações de APIs e dados. **Já tenho cliente pagando:** um assistente de WhatsApp com IA e CRM rodando em produção numa academia.
 
 - 🎓 Graduação tecnóloga em **IA e Automação Digital** (UniFECAF, em parceria com a Rocketseat), cursando
 - 📊 **Formação em Data Analytics** (Rocketseat): Python, Pandas, SQL, estatística e Power BI, cursando
@@ -11,6 +11,9 @@ Estudante de **Inteligência Artificial e Automação Digital** e de **Análise 
 ## 🛠️ Stack
 
 **IA e automação**
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?logo=anthropic&logoColor=white)
+![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?logo=whatsapp&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLMs-Groq%20%7C%20Llama-F55036)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E40C9)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?logo=githubcopilot&logoColor=white)
@@ -30,6 +33,7 @@ Estudante de **Inteligência Artificial e Automação Digital** e de **Análise 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Testes](https://img.shields.io/badge/Testes_automatizados-node_--test-339933?logo=nodedotjs&logoColor=white)
 
 ## 🚀 Projetos em destaque
 
@@ -47,4 +51,6 @@ Estudante de **Inteligência Artificial e Automação Digital** e de **Análise 
 - Projeto de análise de dados de vendas com Python, SQL e Power BI
 - Assistente com RAG consultando dados reais via MCP
 
-<!-- Contato: adicionar aqui o link do LinkedIn, ex.: [LinkedIn](https://www.linkedin.com/in/seu-usuario) -->
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucasimeao-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasimeao)
