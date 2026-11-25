@@ -39,6 +39,8 @@ Estudante de **Inteligência Artificial e Automação Digital** e de **Análise 
 
 | Projeto | O que faz | Destaques |
 | --- | --- | --- |
+| **Assistente de WhatsApp com IA + CRM** (cliente real, código privado) | Atende leads 24h numa academia: triagem por botões, IA com travas, agendamento de aula, lembretes e CRM com login | **Em produção**, API oficial da Meta, Claude API, 100+ testes automatizados. Demonstração sob pedido |
+| [**Carrinho de pedidos via WhatsApp**](https://github.com/lucasasimeao/festarola-carrinho) | Catálogo e carrinho que fecham o pedido no WhatsApp de uma loja de festas | Demonstração online |
 | [**Copiloto de IA para pequeno negócio**](https://github.com/lucasasimeao/copiloto-ia-negocio) | Chat com LLM que responde dúvidas da operação de uma loja usando uma base de conhecimento própria | Grounding, fallback sem IA, testes |
 | [**Organizador de tarefas com IA**](https://github.com/lucasasimeao/organizador-tarefas-ia) | Transforma uma frase em tarefa classificada na Matriz de Eisenhower, com data e calendário | Saída JSON validada, extração de datas |
 | [**Monitor de câmbio com Telegram**](https://github.com/lucasasimeao/monitor-cambio-telegram) | Consulta o dólar, grava histórico no Airtable e alerta no Telegram | Orquestração de 3 APIs, agendamento |
